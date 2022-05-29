@@ -1,0 +1,1 @@
+Text Utils is a simple react based app that can be used to manipulate text in various ways.
